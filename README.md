@@ -12,6 +12,8 @@
 
 后续教程请移步[https://bbs.nga.cn/read.php?tid=23861794&rand=999](https://bbs.nga.cn/read.php?tid=23861794&rand=999)
 
+自动化独轮车脚本（自动检测开播）：[https://greasyfork.org/zh-CN/scripts/412464](https://greasyfork.org/zh-CN/scripts/412464)
+
 # 白嫖原理
 
 利用cloudflare提供的worker获取网页数据，用来变相当作梯子
