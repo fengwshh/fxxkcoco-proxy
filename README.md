@@ -20,21 +20,15 @@
 
 见[https://bbs.nga.cn/read.php?tid=23861794&rand=946](https://bbs.nga.cn/read.php?tid=23861794&rand=946)
 
+其中一步，身份验证器不需要用手机版，直接用火狐拓展就可以：[https://addons.mozilla.org/en-US/firefox/addon/auth-helper](https://addons.mozilla.org/en-US/firefox/addon/auth-helper)
+
 # 第三步：打开直播间看看地址
 
 [https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)
 
 找到正在直播的视频链接，比如：https://www.youtube.com/watch?v=WinQpGPnSdI
 
-`v=`后面的那串数据，复制一下
-
-# 第四步：开个单独的聊天窗口（不用看视频还能省流量）
-
-把上面复制的东西和加到这串网址后面，就是纯聊天页面：https://www.youtube.com/live_chat?is_popout=1&v=
-
-比如：https://www.youtube.com/live_chat?is_popout=1&v=WinQpGPnSdI
-
-# 第五步：配置好独轮车，出动！
+# 第四步：配置好独轮车，出动！
 
 加大力度，不要停
 
